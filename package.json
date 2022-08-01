@@ -1,0 +1,24 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorsbezerra/git-branch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igorsbezerra/git-branch/issues"
+  },
+  "homepage": "https://github.com/igorsbezerra/git-branch#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
